@@ -1,0 +1,5 @@
+1	Chemical engineering
+2	Civil engineering
+3	Electrical engineering
+4	Mechanical engineering
+5	Interdisciplinary
